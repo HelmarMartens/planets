@@ -1,1 +1,2 @@
 This is my test
+Added second line to original file. 
